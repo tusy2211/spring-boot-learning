@@ -9,7 +9,7 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>spring-boot-14-restful-api-@RestController</artifactId>
+  <artifactId>spring-boot-14-restful-api</artifactId>
 
 
 </project>
